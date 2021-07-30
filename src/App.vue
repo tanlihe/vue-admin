@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    App
+    <el-button type='primary' size='small'>测试</el-button>
   </div>
 </template>
 
@@ -14,5 +14,4 @@ export default class App extends Vue {}
 </script>
 
 <style lang="scss" scoped>
-
 </style>
